@@ -1,14 +1,35 @@
 {
   "name": "@qhlab/eslint-plugin",
-  "version": "1.0.0",
   "main": "index.js",
-  "author": "Yoki Yu <yokiyuqian@gmail.com>",
-  "license": "MIT",
-  "private": true,
-  "workspaces": [
-    "packages/*"
+  "version": "0.0.0",
+  "description": "Eslint plugins for QhLab",
+  "keywords": [
+    "@qhlab",
+    "@qhlab/eslint-plugin"
   ],
+  "author": "Yoki Yu <yokiyuqian@gmail.com>",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha tests --recursive",
+    "watch-test": "nodemon --exec 'yarn test'"
+  },
+  "dependencies": {
+    "requireindex": "^1.2.0"
+  },
   "devDependencies": {
-    "lerna": "^4.0.0"
-  }
+    "eslint": "^8.0.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-eslint-plugin": "^4.0.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "mocha": "^9.1.3",
+    "prettier": "^2.4.1"
+  },
+  "engines": {
+    "node": "12.x || 14.x || >= 16"
+  },
+  "peerDependencies": {
+    "eslint": ">=6"
+  },
+  "license": "ISC"
 }
