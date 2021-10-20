@@ -1,0 +1,14 @@
+{
+  "name": "@qhlab/eslint-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yoki Yu <yokiyuqian@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
