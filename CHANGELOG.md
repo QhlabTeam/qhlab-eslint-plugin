@@ -1,3 +1,10 @@
+### [1.0.4](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.0.3...v1.0.4) (2021-10-21)
+
+
+### Bug Fixes
+
+* config ([eb9dfa8](https://github.com/iamyoki/qhlab-eslint-plugin/commit/eb9dfa8ae7db425a3213345c928bb17c6da2273e))
+
 ### [1.0.3](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.0.2...v1.0.3) (2021-10-21)
 
 ### [1.0.2](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.0.1...v1.0.2) (2021-10-21)
