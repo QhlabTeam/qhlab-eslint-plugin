@@ -1,3 +1,8 @@
+### [1.1.1](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.1.0...v1.1.1) (2021-10-21)
+
+
+* add badge in readme ([07b8448](https://github.com/iamyoki/qhlab-eslint-plugin/commit/07b8448f2e72ee200b7e11fe8f28fd2495085655))
+
 ## [1.1.0](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.0.4...v1.1.0) (2021-10-21)
 
 
