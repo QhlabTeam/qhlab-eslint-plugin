@@ -46,32 +46,16 @@ const release = {
         },
         presetConfig: {
           types: [
-            { type: 'chore', section: 'Chores', hidden: false },
-            {
-              type: 'docs',
-              section: 'Docs',
-              hidden: false,
-            },
-            {
-              type: 'build',
-              section: 'Builds',
-              hidden: false,
-            },
-            {
-              type: 'ci',
-              section: 'Continuous Integration',
-              hidden: false,
-            },
-            {
-              type: 'style',
-              section: 'Code Style',
-              hidden: false,
-            },
-            {
-              type: 'test',
-              section: 'Tests',
-              hidden: false,
-            },
+            { type: 'feat', section: 'Features' },
+            { type: 'fix', section: 'Bug Fixes' },
+            { type: 'chore', hidden: false },
+            { type: 'build', hidden: false },
+            { type: 'ci', hidden: false },
+            { type: 'docs', hidden: false },
+            { type: 'style', hidden: false },
+            { type: 'refactor', hidden: false },
+            { type: 'perf', hidden: false },
+            { type: 'test', hidden: false },
           ],
         },
       },
