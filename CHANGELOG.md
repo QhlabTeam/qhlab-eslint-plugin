@@ -1,3 +1,10 @@
+### [1.1.2](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.1.1...v1.1.2) (2021-10-21)
+
+
+### Bug Fixes
+
+* remove rule for now ([6ba12d4](https://github.com/iamyoki/qhlab-eslint-plugin/commit/6ba12d49f10644ecd44e24b84d2495300da6047d))
+
 ### [1.1.1](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.1.0...v1.1.1) (2021-10-21)
 
 
