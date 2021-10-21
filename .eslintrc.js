@@ -3,20 +3,21 @@
 module.exports = {
   root: true,
   parserOptions: {
-    ecmaVersion: 12
+    ecmaVersion: 12,
   },
   extends: [
     'eslint:recommended',
     'plugin:eslint-plugin/recommended',
-    'plugin:node/recommended'
+    'plugin:node/recommended',
+    './lib/configs/prettier.js',
   ],
   env: {
-    node: true
+    node: true,
   },
   overrides: [
     {
       files: ['tests/**/*.js'],
-      env: { mocha: true }
-    }
-  ]
+      env: { mocha: true },
+    },
+  ],
 }
