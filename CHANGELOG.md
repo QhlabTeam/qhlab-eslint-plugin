@@ -1,3 +1,14 @@
+## [1.1.0](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.0.4...v1.1.0) (2021-10-21)
+
+
+### Features
+
+* add markdown config ([26d9dae](https://github.com/iamyoki/qhlab-eslint-plugin/commit/26d9daea5a14d0899cd38fb7e4ffb436f3aedcea))
+
+
+* add github actions for release&test ([84c2e26](https://github.com/iamyoki/qhlab-eslint-plugin/commit/84c2e266911abbef5ccc0d526a8dc4b332b08a2c))
+* fix error ([040c484](https://github.com/iamyoki/qhlab-eslint-plugin/commit/040c48467be9b97c6354fb55db971f82b58cfb9b))
+
 ### [1.0.4](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.0.3...v1.0.4) (2021-10-21)
 
 
