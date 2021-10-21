@@ -9,6 +9,29 @@ const release = {
         parserOpts: {
           noteKeywords: ['BREAKING CHANGE', 'BREAKING CHANGES', 'BREAKING'],
         },
+        releaseRules: [
+          { type: 'chore', release: 'patch' },
+          {
+            type: 'docs',
+            release: 'patch',
+          },
+          {
+            type: 'build',
+            release: 'patch',
+          },
+          {
+            type: 'ci',
+            release: 'patch',
+          },
+          {
+            type: 'style',
+            release: 'patch',
+          },
+          {
+            type: 'test',
+            release: 'patch',
+          },
+        ],
       },
     ],
     [
