@@ -2,6 +2,7 @@
   "name": "@qhlab/eslint-plugin",
   "main": "index.js",
   "version": "1.0.0",
+  "private": false,
   "description": "Eslint plugins for QhLab",
   "keywords": [
     "@qhlab",
