@@ -5,11 +5,11 @@ on:
     branches: [main]
     types:
       - completed
-      - requested
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - uses: actions/checkout@v2
       - name: Use Node.js 14.x
@@ -23,9 +23,11 @@ jobs:
       - name: 🚀 Release
         env:
           NPM_TOKEN: ${{secrets.NPM_TOKEN}}
+          GH_TOKEN: ${{secrets.GITHUB_TOKEN}}
         run: yarn semantic-release
 
   build-failed:
     runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
     steps:
       - run: echo '❌ Release has canceled due to tests fail.'
