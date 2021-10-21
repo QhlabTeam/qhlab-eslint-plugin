@@ -9,6 +9,7 @@ module.exports = {
     'eslint:recommended',
     'plugin:eslint-plugin/recommended',
     'plugin:node/recommended',
+    'plugin:markdown/recommended',
     './lib/configs/prettier.js',
   ],
   env: {
