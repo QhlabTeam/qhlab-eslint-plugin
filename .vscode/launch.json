@@ -5,22 +5,24 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "console": "integratedTerminal",
-      "internalConsoleOptions": "neverOpen",
-      "name": "nodemon",
-      "program": "${workspaceFolder}/app.js",
+      "name": "Test",
       "request": "launch",
-      "restart": true,
-      "runtimeExecutable": "nodemon",
+      "runtimeArgs": ["test"],
+      "runtimeExecutable": "yarn",
       "skipFiles": ["<node_internals>/**"],
-      "type": "pwa-node"
+      "type": "pwa-node",
+      "console": "internalConsole",
+      "internalConsoleOptions": "openOnSessionStart"
     },
     {
-      "type": "pwa-chrome",
+      "name": "Watch test",
       "request": "launch",
-      "name": "Launch Chrome against localhost",
-      "url": "http://localhost:8080",
-      "webRoot": "${workspaceFolder}"
+      "runtimeArgs": ["watch-test"],
+      "runtimeExecutable": "yarn",
+      "skipFiles": ["<node_internals>/**"],
+      "type": "pwa-node",
+      "console": "internalConsole",
+      "internalConsoleOptions": "openOnSessionStart"
     }
   ]
 }
