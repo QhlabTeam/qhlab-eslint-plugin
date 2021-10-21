@@ -1,6 +1,6 @@
 /** @type {import('semantic-release').Options} */
 const release = {
-  branches: ['main'],
+  branches: 'main',
   plugins: [
     [
       '@semantic-release/commit-analyzer',
@@ -34,7 +34,6 @@ const release = {
     [
       '@semantic-release/git',
       {
-        assets: ['dist/**/*.{js,css}', 'docs', 'package.json'],
         message:
           'chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
       },
@@ -42,6 +41,4 @@ const release = {
   ],
 }
 
-module.exports = {
-  release,
-}
+module.exports = release

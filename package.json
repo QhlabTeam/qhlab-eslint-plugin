@@ -1,7 +1,7 @@
 {
   "name": "@qhlab/eslint-plugin",
   "main": "index.js",
-  "version": "0.0.0-development",
+  "version": "0.1.0",
   "description": "Eslint plugins for QhLab",
   "keywords": [
     "@qhlab",
@@ -23,6 +23,8 @@
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.0",
+    "@semantic-release/git": "^10.0.0",
+    "conventional-changelog-conventionalcommits": "^4.6.1",
     "eslint": "^8.0.1",
     "eslint-plugin-eslint-plugin": "^4.0.1",
     "eslint-plugin-node": "^11.1.0",
