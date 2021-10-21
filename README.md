@@ -1,5 +1,7 @@
 # @qhlab/eslint-plugin
 
+[![Node.js CI status](https://github.com/iamyoki/qhlab-eslint-plugin/workflows/Node.js%20CI/badge.svg)](https://github.com/iamyoki/qhlab-eslint-plugin/actions)
+
 🧪 Eslint plugins for QhLab
 
 ## Installation
