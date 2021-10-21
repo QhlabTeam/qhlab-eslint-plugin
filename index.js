@@ -15,7 +15,7 @@ const requireIndex = require('requireindex')
 //------------------------------------------------------------------------------
 
 // import all rules in lib/rules
-module.exports.rules = requireIndex(__dirname + '/lib/rules')
+// module.exports.rules = requireIndex(__dirname + '/lib/rules')
 
 // import all configs in lib/configs
 module.exports.configs = requireIndex(__dirname + '/lib/configs')
