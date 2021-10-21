@@ -44,34 +44,36 @@ const release = {
         writerOpts: {
           commitsSort: ['subject', 'scope'],
         },
-        presetConfig: [
-          { type: 'chore', section: 'Chores', hidden: false },
-          {
-            type: 'docs',
-            section: 'Docs',
-            hidden: false,
-          },
-          {
-            type: 'build',
-            section: 'Builds',
-            hidden: false,
-          },
-          {
-            type: 'ci',
-            section: 'Continuous Integration',
-            hidden: false,
-          },
-          {
-            type: 'style',
-            section: 'Code Style',
-            hidden: false,
-          },
-          {
-            type: 'test',
-            section: 'Tests',
-            hidden: false,
-          },
-        ],
+        presetConfig: {
+          types: [
+            { type: 'chore', section: 'Chores', hidden: false },
+            {
+              type: 'docs',
+              section: 'Docs',
+              hidden: false,
+            },
+            {
+              type: 'build',
+              section: 'Builds',
+              hidden: false,
+            },
+            {
+              type: 'ci',
+              section: 'Continuous Integration',
+              hidden: false,
+            },
+            {
+              type: 'style',
+              section: 'Code Style',
+              hidden: false,
+            },
+            {
+              type: 'test',
+              section: 'Tests',
+              hidden: false,
+            },
+          ],
+        },
       },
     ],
     '@semantic-release/npm',
