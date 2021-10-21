@@ -1,6 +1,8 @@
 # @qhlab/eslint-plugin
 
-[![Node.js CI status](https://github.com/iamyoki/qhlab-eslint-plugin/workflows/Node.js%20CI/badge.svg)](https://github.com/iamyoki/qhlab-eslint-plugin/actions)
+[![🚀 Release The Package](https://github.com/iamyoki/qhlab-eslint-plugin/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/iamyoki/qhlab-eslint-plugin/actions/workflows/release.yml)
+
+[![✅ Run Tests](https://github.com/iamyoki/qhlab-eslint-plugin/actions/workflows/test.yml/badge.svg)](https://github.com/iamyoki/qhlab-eslint-plugin/actions/workflows/test.yml)
 
 🧪 Eslint plugins for QhLab
 
