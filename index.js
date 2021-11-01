@@ -2,13 +2,13 @@
  * @fileoverview Eslint plugins for QhLab
  * @author @qhlab/eslint-plugin
  */
-'use strict'
+'use strict';
 
 //------------------------------------------------------------------------------
 // Requirements
 //------------------------------------------------------------------------------
 
-const requireIndex = require('requireindex')
+const requireIndex = require('requireindex');
 
 //------------------------------------------------------------------------------
 // Plugin Definition
@@ -18,4 +18,4 @@ const requireIndex = require('requireindex')
 // module.exports.rules = requireIndex(__dirname + '/lib/rules')
 
 // import all configs in lib/configs
-module.exports.configs = requireIndex(__dirname + '/lib/configs')
+module.exports.configs = requireIndex(__dirname + '/lib/configs');
