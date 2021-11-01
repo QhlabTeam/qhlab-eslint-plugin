@@ -1,4 +1,4 @@
-const { ESLint } = require('eslint');
+const {ESLint} = require('eslint');
 const getConfigFilePath = require('../../utils/getConfigFilePath');
 const assert = require('assert');
 
