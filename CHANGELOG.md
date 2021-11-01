@@ -1,3 +1,10 @@
+### [1.3.1](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.3.0...v1.3.1) (2021-11-01)
+
+
+### Bug Fixes
+
+* extends path error, adjust some react rules ([956e05c](https://github.com/iamyoki/qhlab-eslint-plugin/commit/956e05ca05980b2e6d005efc80e9537ac493c22c))
+
 ## [1.3.0](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.2.0...v1.3.0) (2021-11-01)
 
 
