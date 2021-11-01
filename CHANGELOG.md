@@ -1,3 +1,15 @@
+## [1.3.0](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.2.0...v1.3.0) (2021-11-01)
+
+
+### Features
+
+* add vue2 & vue3 configs ([f9b737d](https://github.com/iamyoki/qhlab-eslint-plugin/commit/f9b737d01e6b0b52eba26e6bc05f5712f61c6446))
+
+
+* add husky, commitlint, lint-staged ([8549dd8](https://github.com/iamyoki/qhlab-eslint-plugin/commit/8549dd8c01bd6094f186af990b65ff58a47939c4))
+* add lint ([0ac2758](https://github.com/iamyoki/qhlab-eslint-plugin/commit/0ac27587e7f920b636e2ecb5ae6841dd08062235))
+* add more keywords ([402a1ab](https://github.com/iamyoki/qhlab-eslint-plugin/commit/402a1ab49f04af3886ce15e165657f0507ce01a8))
+
 ## [1.2.0](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.1.2...v1.2.0) (2021-11-01)
 
 
