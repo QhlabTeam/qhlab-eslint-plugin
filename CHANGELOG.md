@@ -1,3 +1,17 @@
+## [1.2.0](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.1.2...v1.2.0) (2021-11-01)
+
+
+### Features
+
+* add base rules, not finished yet ([da110d1](https://github.com/iamyoki/qhlab-eslint-plugin/commit/da110d1d108bb557a252900ecf87d232c6566c60))
+* add layout&formatting config ([089892f](https://github.com/iamyoki/qhlab-eslint-plugin/commit/089892f7cdaa0db91eb7bffc9e758e27ef7e4a17))
+* add react config and update prettier ([6000aa7](https://github.com/iamyoki/qhlab-eslint-plugin/commit/6000aa79455c48f722d13c63466f67317460473b))
+
+
+* change license to MIT ([bacb8a4](https://github.com/iamyoki/qhlab-eslint-plugin/commit/bacb8a42da1fa91ff67abbadef56d062b55f7ccf))
+* format code ([b35cd71](https://github.com/iamyoki/qhlab-eslint-plugin/commit/b35cd710f739d26e3179b292da7db3d1f5f6b98d))
+* remove prettier ecmaVersion ([b99983a](https://github.com/iamyoki/qhlab-eslint-plugin/commit/b99983a8529b2f83155b76743d9abb3aa8995f4a))
+
 ### [1.1.2](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.1.1...v1.1.2) (2021-10-21)
 
 
