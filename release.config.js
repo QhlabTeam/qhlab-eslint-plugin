@@ -72,6 +72,7 @@ const release = {
       '@semantic-release/git',
       {
         message:
+          // eslint-disable-next-line no-template-curly-in-string
           'chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
       },
     ],

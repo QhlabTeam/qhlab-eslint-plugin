@@ -10,6 +10,7 @@ module.exports = {
     'plugin:eslint-plugin/recommended',
     'plugin:node/recommended',
     'plugin:markdown/recommended',
+    './lib/configs/base/index.js',
     './lib/configs/prettier.js',
   ],
   env: {
