@@ -11,8 +11,8 @@ module.exports = {
     'plugin:node/recommended',
     'plugin:markdown/recommended',
     './lib/configs/base/index.js',
-    './lib/configs/react.js',
     './lib/configs/prettier.js',
+    // './lib/configs/react.js',
   ],
   env: {
     node: true,

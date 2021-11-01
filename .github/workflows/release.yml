@@ -18,6 +18,8 @@ jobs:
           node-version: 14.x
       - name: 📦 Install Dependencies
         run: yarn install --frozen-lockfile
+      - name: 💡 Lint codes
+        run: yarn lint --fix
       - name: ✅ Run tests
         run: yarn test
       - name: 🚀 Release
