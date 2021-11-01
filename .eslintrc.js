@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 module.exports = {
   root: true,
@@ -10,6 +10,8 @@ module.exports = {
     'plugin:eslint-plugin/recommended',
     'plugin:node/recommended',
     'plugin:markdown/recommended',
+    './lib/configs/base/index.js',
+    './lib/configs/react.js',
     './lib/configs/prettier.js',
   ],
   env: {
@@ -18,7 +20,7 @@ module.exports = {
   overrides: [
     {
       files: ['tests/**/*.js'],
-      env: { mocha: true },
+      env: {mocha: true},
     },
   ],
-}
+};

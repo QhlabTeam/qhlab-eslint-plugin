@@ -10,7 +10,7 @@ const release = {
           noteKeywords: ['BREAKING CHANGE', 'BREAKING CHANGES', 'BREAKING'],
         },
         releaseRules: [
-          { type: 'chore', release: 'patch' },
+          {type: 'chore', release: 'patch'},
           {
             type: 'docs',
             release: 'patch',
@@ -46,16 +46,16 @@ const release = {
         },
         presetConfig: {
           types: [
-            { type: 'feat', section: 'Features' },
-            { type: 'fix', section: 'Bug Fixes' },
-            { type: 'chore', hidden: false },
-            { type: 'build', hidden: false },
-            { type: 'ci', hidden: false },
-            { type: 'docs', hidden: false },
-            { type: 'style', hidden: false },
-            { type: 'refactor', hidden: false },
-            { type: 'perf', hidden: false },
-            { type: 'test', hidden: false },
+            {type: 'feat', section: 'Features'},
+            {type: 'fix', section: 'Bug Fixes'},
+            {type: 'chore', hidden: false},
+            {type: 'build', hidden: false},
+            {type: 'ci', hidden: false},
+            {type: 'docs', hidden: false},
+            {type: 'style', hidden: false},
+            {type: 'refactor', hidden: false},
+            {type: 'perf', hidden: false},
+            {type: 'test', hidden: false},
           ],
         },
       },
@@ -72,10 +72,11 @@ const release = {
       '@semantic-release/git',
       {
         message:
+          // eslint-disable-next-line no-template-curly-in-string
           'chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
       },
     ],
   ],
-}
+};
 
-module.exports = release
+module.exports = release;
