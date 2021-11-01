@@ -8,7 +8,12 @@
   "description": "Eslint plugins for QhLab",
   "keywords": [
     "@qhlab",
-    "@qhlab/eslint-plugin"
+    "@qhlab/eslint-plugin",
+    "eslint",
+    "eslint-plugin",
+    "eslint-config",
+    "react",
+    "vue"
   ],
   "author": "Yoki Yu <yokiyuqian@gmail.com>",
   "scripts": {
