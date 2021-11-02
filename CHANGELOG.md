@@ -1,3 +1,19 @@
+## [1.4.0](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.3.1...v1.4.0) (2021-11-02)
+
+
+### Features
+
+* optimize vue vue3 configs, replace path.join require.resolve ([4787025](https://github.com/iamyoki/qhlab-eslint-plugin/commit/47870250d34f739b7e10232fab9dc1d74b14c4f0))
+
+
+### Bug Fixes
+
+* some rules issue, add env for all config based on ([194dd12](https://github.com/iamyoki/qhlab-eslint-plugin/commit/194dd12bd24d391346d3b51cc273c21f74590f49))
+
+
+* file name change ([877dec4](https://github.com/iamyoki/qhlab-eslint-plugin/commit/877dec42da07ef736fbe1e4c400adae67fe4849f))
+* path ([aca1875](https://github.com/iamyoki/qhlab-eslint-plugin/commit/aca1875dd6c5a92681766601415df69e92c1e260))
+
 ### [1.3.1](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.3.0...v1.3.1) (2021-11-01)
 
 
