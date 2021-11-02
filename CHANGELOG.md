@@ -1,3 +1,36 @@
+### [1.3.1](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.3.0...v1.3.1) (2021-11-01)
+
+
+### Bug Fixes
+
+* extends path error, adjust some react rules ([956e05c](https://github.com/iamyoki/qhlab-eslint-plugin/commit/956e05ca05980b2e6d005efc80e9537ac493c22c))
+
+## [1.3.0](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.2.0...v1.3.0) (2021-11-01)
+
+
+### Features
+
+* add vue2 & vue3 configs ([f9b737d](https://github.com/iamyoki/qhlab-eslint-plugin/commit/f9b737d01e6b0b52eba26e6bc05f5712f61c6446))
+
+
+* add husky, commitlint, lint-staged ([8549dd8](https://github.com/iamyoki/qhlab-eslint-plugin/commit/8549dd8c01bd6094f186af990b65ff58a47939c4))
+* add lint ([0ac2758](https://github.com/iamyoki/qhlab-eslint-plugin/commit/0ac27587e7f920b636e2ecb5ae6841dd08062235))
+* add more keywords ([402a1ab](https://github.com/iamyoki/qhlab-eslint-plugin/commit/402a1ab49f04af3886ce15e165657f0507ce01a8))
+
+## [1.2.0](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.1.2...v1.2.0) (2021-11-01)
+
+
+### Features
+
+* add base rules, not finished yet ([da110d1](https://github.com/iamyoki/qhlab-eslint-plugin/commit/da110d1d108bb557a252900ecf87d232c6566c60))
+* add layout&formatting config ([089892f](https://github.com/iamyoki/qhlab-eslint-plugin/commit/089892f7cdaa0db91eb7bffc9e758e27ef7e4a17))
+* add react config and update prettier ([6000aa7](https://github.com/iamyoki/qhlab-eslint-plugin/commit/6000aa79455c48f722d13c63466f67317460473b))
+
+
+* change license to MIT ([bacb8a4](https://github.com/iamyoki/qhlab-eslint-plugin/commit/bacb8a42da1fa91ff67abbadef56d062b55f7ccf))
+* format code ([b35cd71](https://github.com/iamyoki/qhlab-eslint-plugin/commit/b35cd710f739d26e3179b292da7db3d1f5f6b98d))
+* remove prettier ecmaVersion ([b99983a](https://github.com/iamyoki/qhlab-eslint-plugin/commit/b99983a8529b2f83155b76743d9abb3aa8995f4a))
+
 ### [1.1.2](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.1.1...v1.1.2) (2021-10-21)
 
 
