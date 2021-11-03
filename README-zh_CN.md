@@ -109,6 +109,7 @@ Create a `.eslintrc.json` file in your root dir.
 > Note: Make sure prettier is the last one so it won't be overriden.
 
 ## Config References
+
 | config name            | extends with                                                                   | have customize? | rules from                                                                   |
 | ---------------------- | ------------------------------------------------------------------------------ | --------------- | ---------------------------------------------------------------------------- |
 | plugin:@qhlab/prettier | plugin:prettier/recommended                                                    | ✅               | [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) |
