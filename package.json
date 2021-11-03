@@ -5,7 +5,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "description": "🧪 Eslint plugins for QhLab",
   "keywords": [
     "@qhlab",
@@ -16,7 +18,17 @@
     "react",
     "vue"
   ],
-  "author": "Yoki Yu <yokiyuqian@gmail.com>",
+  "author": {
+    "name": "QhlabTeam",
+    "url": "https://github.com/QhlabTeam"
+  },
+  "contributors": [
+    {
+      "name": "iamyoki",
+      "email": "yokiyuqian@gmail.com",
+      "url": "https://github.com/iamyoki"
+    }
+  ],
   "scripts": {
     "lint": "eslint .",
     "test": "mocha tests --recursive",
@@ -57,6 +69,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamyoki/qhlab-eslint-plugin.git"
+    "url": "https://github.com/QhlabTeam/qhlab-eslint-plugin"
   }
 }
