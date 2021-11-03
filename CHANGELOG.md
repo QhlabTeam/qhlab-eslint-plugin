@@ -1,3 +1,9 @@
+### [1.5.1](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.5.0...v1.5.1) (2021-11-03)
+
+
+* update package.json ([bdef2c6](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/bdef2c67aeac8135f368faf75d26fd0198416f87))
+* update package.json, add files ([0ce8d23](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/0ce8d23922bae7fcef1825030338c8d5ef0d0e52))
+
 ## [1.5.0](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.4.0...v1.5.0) (2021-11-03)
 
 
