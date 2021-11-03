@@ -1,7 +1,7 @@
 # @qhlab/eslint-plugin
 
 <p align="center">
-  <img src="logo.png" alt="logo" width="400px" />
+  <img src="logo-medium.png" alt="logo" width="550px" />
 </p>
 
 <br />
