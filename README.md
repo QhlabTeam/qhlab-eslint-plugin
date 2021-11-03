@@ -1,10 +1,17 @@
 # @qhlab/eslint-plugin
 
-[![🚀 Release The Package](https://github.com/iamyoki/qhlab-eslint-plugin/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/iamyoki/qhlab-eslint-plugin/actions/workflows/release.yml)
+<p align="center">
+  <img src="logo.png" alt="logo" width="400px" />
+</p>
 
-[![✅ Run Tests](https://github.com/iamyoki/qhlab-eslint-plugin/actions/workflows/test.yml/badge.svg)](https://github.com/iamyoki/qhlab-eslint-plugin/actions/workflows/test.yml)
+<br />
+<h2 align="center">🧪 Eslint plugins for QhLab</h2>
+<br />
 
-🧪 Eslint plugins for QhLab
+<p align="center">
+  <a href="https://github.com/iamyoki/qhlab-eslint-plugin/actions/workflows/release.yml"><img src="https://github.com/iamyoki/qhlab-eslint-plugin/actions/workflows/release.yml/badge.svg?branch=main" alt="🚀 Release The Package"></a>
+  <a href="https://github.com/iamyoki/qhlab-eslint-plugin/actions/workflows/test.yml"><img src="https://github.com/iamyoki/qhlab-eslint-plugin/actions/workflows/test.yml/badge.svg" alt="✅ Run Tests"></a>
+</p>
 
 ## Installation
 
