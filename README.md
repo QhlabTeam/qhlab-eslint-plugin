@@ -99,7 +99,7 @@ Create a `.eslintrc.json` file in your root dir.
 
 ```json
 {
-  "extends": [...your other rules, "plugin:@qhlab/prettier"]
+  "extends": ["...your other rules", "plugin:@qhlab/prettier"]
 }
 ```
 
