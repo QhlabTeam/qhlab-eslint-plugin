@@ -5,7 +5,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "Eslint plugins for QhLab",
+  "files": ["lib"],
+  "description": "🧪 Eslint plugins for QhLab",
   "keywords": [
     "@qhlab",
     "@qhlab/eslint-plugin",
