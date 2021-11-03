@@ -1,3 +1,18 @@
+## [1.5.0](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.4.0...v1.5.0) (2021-11-03)
+
+
+### Features
+
+* add logo to README.md ([edc3813](https://github.com/iamyoki/qhlab-eslint-plugin/commit/edc381391846964eaba2a7d5c7a8462a3e40d364))
+
+
+* update logo size ([66650a4](https://github.com/iamyoki/qhlab-eslint-plugin/commit/66650a4530b8b4fb25bedf0b6a1416a44ac9d2a3))
+* update README ([61b5633](https://github.com/iamyoki/qhlab-eslint-plugin/commit/61b5633dddf2264bde56f985f3f98a90ff475280))
+* update README ([a9acf1f](https://github.com/iamyoki/qhlab-eslint-plugin/commit/a9acf1f4c025c97066ab8da2c368a24118d921fb))
+* update README ([317745f](https://github.com/iamyoki/qhlab-eslint-plugin/commit/317745f0f8da84a842782efa3253d8115fe6fc4d))
+* update README ([1614f69](https://github.com/iamyoki/qhlab-eslint-plugin/commit/1614f69a4123da7dedf801d5a2a352ac289a5d30))
+* update README, add translation ([7d61f4c](https://github.com/iamyoki/qhlab-eslint-plugin/commit/7d61f4cc954bd31dd58135fa5393ed5cc9305e2e))
+
 ## [1.4.0](https://github.com/iamyoki/qhlab-eslint-plugin/compare/v1.3.1...v1.4.0) (2021-11-02)
 
 
