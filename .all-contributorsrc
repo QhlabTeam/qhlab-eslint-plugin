@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "FujiHai",
+      "name": "FujiHai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28208916?v=4",
+      "profile": "https://github.com/FujiHai",
+      "contributions": [
+        "translation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "qhlab-eslint-plugin",
+  "projectOwner": "QhlabTeam",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
