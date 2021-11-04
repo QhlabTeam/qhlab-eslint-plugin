@@ -17,14 +17,14 @@
   <a href="README.md">English</a> | 简体中文
 </p>
 
-- [安装](#installation)
-- [在 React 中使用](#use-in-react)
-- [在 Vue2 中使用](#use-in-vue2)
-- [在 Vue3 中使用](#use-in-vue3)
-- [原生 JavaScript 中使用](#use-in-vanilla-js)
-- [单独使用 Prettier 规则](#use-prettier-rules-alone)
-- [配置项](#config-references)
-- [协议](#license)
+- [安装](#安装)
+- [在 React 中使用](#在-react-中使用)
+- [在 Vue2 中使用](#在-vue2-中使用)
+- [在 Vue3 中使用](#在-vue3-中使用)
+- [在原生 JavaScript 中使用](#在原生-javascript-中使用)
+- [单独使用 Prettier 规则](#单独使用-prettier-规则)
+- [配置参考](#配置参考)
+- [开源协议](#开源协议)
 
 ## 安装
 
@@ -52,7 +52,7 @@ yarn add @qhlab/eslint-plugin -D
 
 ## 在 Vue2 中使用
 
-确保项目中使用的 eslint 为 v7 最新版本，[因为 vue/cli 暂不支持 v8 版本](https://github.com/vuejs/vue-cli/issues/6759)。
+确保项目中使用的 eslint 为 v7 最新版本，[因为 @vue/cli 暂不支持 v8 版本](https://github.com/vuejs/vue-cli/issues/6759)。
 
 ```sh
 yarn add eslint@^7 -D
@@ -68,7 +68,7 @@ yarn add eslint@^7 -D
 
 ## 在 Vue3 中使用
 
-确保项目中使用的 eslint 为 v7 最新版本，[因为 vue/cli 暂不支持 v8 版本](https://github.com/vuejs/vue-cli/issues/6759)。
+确保项目中使用的 eslint 为 v7 最新版本，[因为 @vue/cli 暂不支持 v8 版本](https://github.com/vuejs/vue-cli/issues/6759)。
 
 ```sh
 yarn add eslint@^7 -D
@@ -82,9 +82,9 @@ yarn add eslint@^7 -D
 }
 ```
 
-## 原生 JavaScript 中使用
+## 在原生 JavaScript 中使用
 
-使用 `plugin:@qhlab/base` 规则，默认情况下已引入 `plugin:@qhlab/react`、`plugin:@qhlab/vue`、`plugin:@qhlab/vue3` 3 种规则。
+使用 `plugin:@qhlab/base` 规则，默认情况下已引入 `plugin:@qhlab/react`、`plugin:@qhlab/vue`、`plugin:@qhlab/vue3` 三种规则。
 
 在实际项目根目录中创建一个 `.eslintrc.json` 文件。
 
@@ -96,7 +96,7 @@ yarn add eslint@^7 -D
 
 ## 单独使用 Prettier 规则
 
-使用 `plugin:@qhlab/prettier` 规则，默认情况下已引入 `plugin:@qhlab/react`、`plugin:@qhlab/vue`、`plugin:@qhlab/vue3` 3 种规则。
+使用 `plugin:@qhlab/prettier` 规则，默认情况下已引入 `plugin:@qhlab/react`、`plugin:@qhlab/vue`、`plugin:@qhlab/vue3` 三种规则。
 
 在实际项目根目录中创建一个 `.eslintrc.json` 文件。
 
@@ -108,9 +108,9 @@ yarn add eslint@^7 -D
 
 > 提示: 请确保 prettier 是最新版本，以免配置被覆盖。
 
-## 配置项
+## 配置参考
 
-| 名称                   | 继承于                                                       | 是否支持自定义 | 规则来源                                                     |
+| 名称                   | 继承于                                                       | 是否有修改 | 规则来源                                                     |
 | ---------------------- | ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ |
 | plugin:@qhlab/prettier | plugin:prettier/recommended                                  | ✅              | [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) |
 | plugin:@qhlab/base     | /                                                            | ✅              | [eslint official](https://eslint.org/docs/rules/)            |
