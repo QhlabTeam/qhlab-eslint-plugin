@@ -1,3 +1,9 @@
+### [1.6.1](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.6.0...v1.6.1) (2021-11-09)
+
+
+* update few rules ([4c0f713](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/4c0f7135924ddc26d21e9e3ca91e4beb9b587658))
+* update prefer-const ([adb70ef](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/adb70ef89237f267db987cb8eb459ace74b09429))
+
 ## [1.6.0](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.5.2...v1.6.0) (2021-11-09)
 
 
