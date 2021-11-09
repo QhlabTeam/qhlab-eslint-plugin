@@ -1,3 +1,10 @@
+## [1.6.0](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.5.2...v1.6.0) (2021-11-09)
+
+
+### Features
+
+* add vue roles ([cf2dacd](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/cf2dacd8f386cc170c69e2a1813a367c3dcbde37))
+
 ### [1.5.2](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.5.1...v1.5.2) (2021-11-04)
 
 
