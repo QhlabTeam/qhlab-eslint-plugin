@@ -1,3 +1,11 @@
+## [1.8.0](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.7.0...v1.8.0) (2021-12-01)
+
+
+### Features
+
+* add typescript config ([e22ee91](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/e22ee91f28e03ee51e75a760f436d3e9332619b9))
+* add typescript for startup 20% ([2e79be0](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/2e79be0323ad14d6ef86aef24e461c86241fbbf5))
+
 ## [1.7.0](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.6.1...v1.7.0) (2021-11-11)
 
 
