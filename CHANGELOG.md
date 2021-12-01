@@ -1,3 +1,17 @@
+## [1.7.0](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.6.1...v1.7.0) (2021-11-11)
+
+
+### Features
+
+* update vue rules ([2caea30](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/2caea309973b8bf39f0d266ceda29a336e4a6d95))
+* update vue/html-self-closing ([31be538](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/31be53826ffa4230dcd9c4ebe4725e8a25104ca0))
+
+### [1.6.1](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.6.0...v1.6.1) (2021-11-09)
+
+
+* update few rules ([4c0f713](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/4c0f7135924ddc26d21e9e3ca91e4beb9b587658))
+* update prefer-const ([adb70ef](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/adb70ef89237f267db987cb8eb459ace74b09429))
+
 ## [1.6.0](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.5.2...v1.6.0) (2021-11-09)
 
 
