@@ -132,7 +132,7 @@ For example
 | config name            | extends with                                                                   | has customized? | rules **from**                                                                   |
 | ---------------------- | ------------------------------------------------------------------------------ | --------------- | ---------------------------------------------------------------------------- |
 | plugin:@qhlab/prettier | plugin:prettier/recommended                                                    | ✅               | [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) |
-| plugin:@qhlab/base     | /                                                                              | ✅               | [eslint official](https://eslint.org/docs/rules/)                            |
+| plugin:@qhlab/base     | /                                                                              | ✅               | [eslint official](https://eslint.org/docs/rules/) <br /> [@typescript-eslint](https://typescript-eslint.io/)                            |
 | plugin:@qhlab/react    | plugin:@qhlab/base <br /> plugin:@qhlab/prettier                               | ✅               | [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)      |
 | plugin:@qhlab/vue      | plugin:@qhlab/base <br /> plugin:vue/recommended <br /> plugin:@qhlab/prettier | no              | [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)              |
 | plugin:@qhlab/vue3     | plugin:@qhlab/base <br /> plugin:vue/recommended <br /> plugin:@qhlab/prettier | no              | [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)              |
