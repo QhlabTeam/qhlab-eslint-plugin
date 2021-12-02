@@ -110,7 +110,7 @@ Create a `.eslintrc.json` file in your root dir.
 
 ## Config References
 
-| config name            | extends with                                                                   | have customize? | rules from                                                                   |
+| config name            | extends with                                                                   | has customized? | rules from                                                                   |
 | ---------------------- | ------------------------------------------------------------------------------ | --------------- | ---------------------------------------------------------------------------- |
 | plugin:@qhlab/prettier | plugin:prettier/recommended                                                    | ✅               | [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) |
 | plugin:@qhlab/base     | /                                                                              | ✅               | [eslint official](https://eslint.org/docs/rules/)                            |
