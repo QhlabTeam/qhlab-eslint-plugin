@@ -23,6 +23,7 @@
 - [Use in Vue3](#use-in-vue3)
 - [Use in Vanilla JS](#use-in-vanilla-js)
 - [Use Prettier rules alone](#use-prettier-rules-alone)
+- [Use with typescript](#use-with-typescript)
 - [Config References](#config-references)
 - [License](#license)
 
@@ -108,9 +109,27 @@ Create a `.eslintrc.json` file in your root dir.
 
 > Note: Make sure prettier is the last one so it won't be overriden.
 
+## Use with typescript
+
+Typescript config is already built in with `base` config, so you don't need to worry about that, it will override `.ts, .tsx` files with typescript config rules.
+
+However, you may need to add `parserOptions.project` to specify your `tsconfig.json` file.
+> In most case, you won't need to do that, because it will automatically locate `tsconfig.json` file base on you current command line path, but if you aren't execute your command line in the same dir, it won't be found, so in that case you need specify mannually.
+
+For example
+
+```json
+{
+  "extends": ["plugin:@qhlab/react"],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
+```
+
 ## Config References
 
-| config name            | extends with                                                                   | has customized? | rules from                                                                   |
+| config name            | extends with                                                                   | has customized? | rules **from**                                                                   |
 | ---------------------- | ------------------------------------------------------------------------------ | --------------- | ---------------------------------------------------------------------------- |
 | plugin:@qhlab/prettier | plugin:prettier/recommended                                                    | ✅               | [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) |
 | plugin:@qhlab/base     | /                                                                              | ✅               | [eslint official](https://eslint.org/docs/rules/)                            |
