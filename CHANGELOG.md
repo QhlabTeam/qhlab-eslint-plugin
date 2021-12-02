@@ -1,3 +1,8 @@
+### [1.8.3](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.8.2...v1.8.3) (2021-12-02)
+
+
+* add license ([b32e377](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/b32e3777138a0561633e9f04e4a720e2aa7bec76))
+
 ### [1.8.2](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.8.1...v1.8.2) (2021-12-02)
 
 
