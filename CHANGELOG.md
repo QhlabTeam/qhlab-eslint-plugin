@@ -1,3 +1,8 @@
+### [1.8.2](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.8.1...v1.8.2) (2021-12-02)
+
+
+* update README, add typescript ([7153734](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/7153734e63b10847e8a86cdc447d67548cba69ad))
+
 ### [1.8.1](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.8.0...v1.8.1) (2021-12-02)
 
 
