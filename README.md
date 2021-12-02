@@ -114,7 +114,7 @@ Create a `.eslintrc.json` file in your root dir.
 Typescript config is already built in with `base` config, so you don't need to worry about that, it will override `.ts, .tsx` files with typescript config rules.
 
 However, you may need to add `parserOptions.project` to specify your `tsconfig.json` file.
-> In most case, you won't need to do that, because it will automatically locate `tsconfig.json` file base on you current command line path, but if you aren't execute your command line in the same dir, it won't be found, so in that case you need specify mannually.
+> In most case, you won't need to do that, because it will automatically locate `tsconfig.json` file base on your current command line path, but if you aren't execute your command line in the same dir, it won't be found, so in that case you need specify mannually.
 
 For example
 
