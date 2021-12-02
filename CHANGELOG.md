@@ -1,3 +1,13 @@
+### [1.8.1](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.8.0...v1.8.1) (2021-12-02)
+
+
+### Bug Fixes
+
+* off consistent-type-exports ([adcf5ab](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/adcf5ab8c2d8b9577f2d0f14b73c1d3b9e9b150c))
+
+
+* fix readme wrong word ([f665ff8](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/f665ff88645e663d1e56b0677e5bf51a84ffdb74))
+
 ## [1.8.0](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.7.0...v1.8.0) (2021-12-01)
 
 
