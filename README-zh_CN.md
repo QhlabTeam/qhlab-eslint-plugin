@@ -108,6 +108,24 @@ yarn add eslint@^7 -D
 
 > 提示: 请确保 prettier 是最新版本，以免配置被覆盖。
 
+## 配合 typescript 使用
+
+`base` 配置中已默认引入 typescript 配置，不需要单独引入，同时会覆盖项目中 `.ts, .tsx` 类型文件原有的配置规则。
+
+可能需要手动添加 `parserOptions.project` 以指定对应的 `tsconfig.json` 文件。
+> 一般情况下不需要添加，运行后会自动在当前命令行运行的目录下查找 `tsconfig.json` 文件，但如果文件不在当前目录下，就需要进行手动配置。
+
+示例
+
+```json
+{
+  "extends": ["plugin:@qhlab/react"],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
+```
+
 ## 配置参考
 
 | 名称                   | 继承于                                                       | 是否有修改 | 规则来源                                                     |
