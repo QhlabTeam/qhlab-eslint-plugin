@@ -1,3 +1,9 @@
+### [1.8.5](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.8.4...v1.8.5) (2021-12-08)
+
+
+* update readme ([2c19465](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/2c19465cd2c1860d93f9b0f936453b836f776023))
+* update readme ([8271fec](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/8271fec8a05cb3561d03dbabdde922781a7a4558))
+
 ### [1.8.4](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.8.3...v1.8.4) (2021-12-02)
 
 
