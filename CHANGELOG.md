@@ -1,3 +1,10 @@
+## [1.9.0](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.8.5...v1.9.0) (2022-01-10)
+
+
+### Features
+
+* no-console allow warn, error ([73c385e](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/73c385ea009151c50595c00c7b49e1e983468cf4))
+
 ### [1.8.5](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.8.4...v1.8.5) (2021-12-08)
 
 

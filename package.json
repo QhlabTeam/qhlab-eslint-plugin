@@ -1,7 +1,7 @@
 {
   "name": "@qhlab/eslint-plugin",
   "main": "index.js",
-  "version": "1.8.5",
+  "version": "1.9.0",
   "publishConfig": {
     "access": "public"
   },
