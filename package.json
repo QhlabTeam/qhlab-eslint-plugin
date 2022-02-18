@@ -30,6 +30,7 @@
     }
   ],
   "scripts": {
+    "prepare": "husky install",
     "lint": "eslint .",
     "test": "mocha tests --recursive",
     "watch-test": "nodemon --exec 'yarn test'",
