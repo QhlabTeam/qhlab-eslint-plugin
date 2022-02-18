@@ -1,3 +1,18 @@
+## [1.10.0](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.9.0...v1.10.0) (2022-02-18)
+
+
+### Features
+
+* add several import plugins ([bfaf91b](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/bfaf91bdd2603d9a552498686037b6788fe4181a))
+
+
+### Bug Fixes
+
+* add husky prepare ([c194df8](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/c194df8fec3506ec19a3349aeaca1a664ca053f1))
+
+
+* edit commitlint, lintstaged config ([e13b62d](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/e13b62d69666e6baaa9c477f7f951dbd9a5dda33))
+
 ## [1.9.0](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.8.5...v1.9.0) (2022-01-10)
 
 
