@@ -1,6 +1,8 @@
-const {ESLint} = require('eslint');
-const getConfigFilePath = require('../../utils/getConfigFilePath');
 const assert = require('assert');
+
+const {ESLint} = require('eslint');
+
+const getConfigFilePath = require('../../utils/getConfigFilePath');
 
 const eslint = new ESLint({
   overrideConfigFile: getConfigFilePath('prettier'),

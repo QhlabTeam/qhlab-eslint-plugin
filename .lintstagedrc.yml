@@ -1,3 +1,2 @@
 "**/*.js":
-  - yarn test
-  - yarn lint
+  - yarn lint --fix
