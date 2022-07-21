@@ -1,3 +1,10 @@
+## [1.11.0](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.10.0...v1.11.0) (2022-07-21)
+
+
+### Features
+
+* @typescript-eslint/ban-types set '{}' to false ([3f65337](https://github.com/QhlabTeam/qhlab-eslint-plugin/commit/3f653379173e15414229a0aa81dc86e0c96e2ca5))
+
 ## [1.10.0](https://github.com/QhlabTeam/qhlab-eslint-plugin/compare/v1.9.0...v1.10.0) (2022-02-18)
 
 
